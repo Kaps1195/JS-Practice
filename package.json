@@ -2,7 +2,7 @@
   "name": "Kapil Ramnani",
   "version": "1.0.0",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "request": "^2.88.0"
   }
 }
